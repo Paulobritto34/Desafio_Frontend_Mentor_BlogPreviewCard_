@@ -39,7 +39,8 @@ p {
 }
 
 span {
-    color: #f5d04e;
+    color: black;
+    font-size: 18px;
     margin-top: 9px;
 }
 .rodaPe {
