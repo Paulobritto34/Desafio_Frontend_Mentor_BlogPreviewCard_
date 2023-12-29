@@ -40,7 +40,8 @@ p {
 
 span {
     color: black;
-    font-size: 18px;
+    font-size: 22px;
+    font-weight: bold;
     margin-top: 9px;
 }
 .rodaPe {
